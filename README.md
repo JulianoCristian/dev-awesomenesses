@@ -10,6 +10,7 @@ awesome things noted, reviewed, learned and formulated.
 
 - [awesome](https://github.com/sindresorhus/awesome)
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [A study path for game programmer](https://github.com/miloyip/game-programmer/)
 
 ## awesome - aggregates 
 
