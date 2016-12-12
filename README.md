@@ -1,18 +1,20 @@
 # dev-awesomenesses
 
-## awesome - contrib
+## awesome contrib
 
 awesome things noted, reviewed, learned and formulated.
 
 - [awesome-cppcon](awesome-cppcon.md) - Picked and starred presentations of CppCon.
 
-## awesome - meta
+## awesome meta
 
 - [awesome](https://github.com/sindresorhus/awesome)
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-- [A study path for game programmer](https://github.com/miloyip/game-programmer/)
 
-## awesome - aggregates 
+- [A study path for game programmer](https://github.com/miloyip/game-programmer/)
+- [AltDevBlogADay 2.0](http://altdevblog.com/)
+
+## awesome aggregates 
 
 - [awesome-opengl](https://github.com/eug/awesome-opengl)
 - [awesome-vulkan](https://github.com/vinjn/awesome-vulkan)
