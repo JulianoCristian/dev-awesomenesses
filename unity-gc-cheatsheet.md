@@ -3,8 +3,10 @@
 
 - Pull-requests are welcome. 
 - These entries are based on Unity 5 (or newer).
-- Though it's written up in Chinese, an English-translation pull request would be **espacially welcome**. 
+- Though it's written up in Chinese, an English-translation pull request would be **espacially welcome**.
 - Check out complemental pages listed below.
+
+--------------------------
 
 - [**Unity GC Cheatsheet**](unity-gc-cheatsheet.md)
     + [Details](unity-gc-cheatsheet-details.md)
