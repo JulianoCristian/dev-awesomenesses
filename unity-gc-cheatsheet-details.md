@@ -4,8 +4,6 @@
     + [**Details**](unity-gc-cheatsheet-details.md)
     + [References](unity-gc-cheatsheet-references)
 
-Here are some write-ups in Chinese for some entries in [Unity GC Cheatsheet]()
-
 ### a05. 在针对 GC Alloc 做优化时，对象数量 > 引用关系复杂度 > 对象尺寸
 
 对 [Boehm garbage collector](https://en.wikipedia.org/wiki/Boehm_garbage_collector) 而言，对象数量直接影响单次 GC 的时间开销
@@ -57,7 +55,7 @@ string[] strArray;
 
 此时所有数据不变的情况下，对象数量 (对 GC 而言) 降低到了 2 个
 
-### c07. 避免使用枚举或 struct 做 Key 进行字典查找 (除非使用定制的 comparer)
+### c03. 避免使用枚举或 struct 做 Key 进行字典查找 (除非使用定制的 comparer)
 
 当 Key 为用户定义的 struct 而非内建的值类型时，Dictionary 的主要接口会产生 GC Alloc
 Add / ContainsKey / TryGetValue / "[ ]" 等接口都需要对传进来的 TKey 调用默认的 EqualityComparer 来判断是否相等
