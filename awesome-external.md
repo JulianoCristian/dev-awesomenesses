@@ -9,7 +9,6 @@
 
 ## awesome aggregates 
 
-- [single-file C/C++ libraries](https://github.com/nothings/single_file_libs)
 - [awesome-opengl](https://github.com/eug/awesome-opengl)
 - [awesome-vulkan](https://github.com/vinjn/awesome-vulkan)
 - [awesome-nodejs](https://github.com/sqreen/awesome-nodejs-projects)
