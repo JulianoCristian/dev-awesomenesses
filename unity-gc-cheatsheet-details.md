@@ -2,7 +2,7 @@
 
 - [Unity GC Cheatsheet](unity-gc-cheatsheet.md)
     + [**Details**](unity-gc-cheatsheet-details.md)
-    + [References](unity-gc-cheatsheet-references)
+    + [References](unity-gc-cheatsheet-references.md)
 
 ### a05. 在针对 GC Alloc 做优化时，对象数量 > 引用关系复杂度 > 对象尺寸
 

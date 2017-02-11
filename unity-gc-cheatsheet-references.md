@@ -3,7 +3,7 @@
 
 - [Unity GC Cheatsheet](unity-gc-cheatsheet.md)
     + [Details](unity-gc-cheatsheet-details.md)
-    + [**References**](unity-gc-cheatsheet-references)
+    + [**References**](unity-gc-cheatsheet-references.md)
 
 ### 官方及第三方参考 (En)
 
