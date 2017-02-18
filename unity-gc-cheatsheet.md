@@ -17,7 +17,7 @@
 - a01. struct Foo 在栈上，但 struct Foo[] 分配在堆上
 - a02. GetType() 会产生 GC Alloc (每个调用 20 Bytes)
 - [a03. delegate 的创建时 (赋值 = 或以参数传递) 在堆上分配 (如将方法做为参数传入)](https://www.zhihu.com/question/26779558/answer/34015434)
-- a04. delegate 尽量使用 = 而不是 += (后者会导致 InvocationList 不断增长且会被调用多次)
+- a04. delegate 尽量使用 =，避免无意的 += 导致 InvocationList 的增长
 - [a05. 在针对 GC Alloc 做优化时，对象数量 > 引用关系复杂度 > 对象尺寸][cheatsheet_a05]
 - a06. 当可以使用整数句柄来代替引用时，尽量使用整数句柄 (简化引用关系)
 - [a07. 优化内存布局：利用“数组对 GC 而言是单一对象”这一特性][cheatsheet_a07]
