@@ -25,7 +25,7 @@
 
 ----------------------------------
 
-- b01. 避免频繁调用会分配内存的 accessors (如 Mesh.vertices/normals/uvs、SkinedMeshRenderer.bones)
+- b01. 避免频繁调用分配内存的 accessors (如 .vertices/.normals/.uvs/.bones)
 - b02. 避免频繁调用 Int.ToString() 及其它类型的衍生
 - b03. 避免在 Update() 内使用 [GameObject.Tag](http://answers.unity3d.com/questions/1010251/gameobjecttag-without-gc-allocation.html) 和 [GameObject.Name](http://forum.unity3d.com/threads/unityengine-object-name-allocates-for-each-access.237380/)
 - b04. 避免在 Update() 内 GetComponent() 
