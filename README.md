@@ -1,6 +1,6 @@
 # dev-awesomenesses
 
-awesome things noted, reviewed, learned and formulated.
+awesome things noted and reviewed.
 
 - [awesome-gdc17](awesome-gdc17.md) - Participated/recommended/missed presentations of GDC17.
 - [awesome-cppcon](awesome-cppcon.md) - Picked and starred presentations of CppCon.
