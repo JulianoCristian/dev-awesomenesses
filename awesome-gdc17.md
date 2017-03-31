@@ -51,3 +51,17 @@
  |  | [Vulkan on Desktop Deep Dive](http://gdcvault.com/play/1024362/Vulkan-on-Desktop-Deep-Dive) | Khronos 
  |  | [Get the Most from Vulkan in Unity with Practical Examples from Infinite Dreams](http://gdcvault.com/play/1024394/Get-the-Most-from-Vulkan) | ARM
  |  | [NVIDIA Vulkan Update](http://gdcvault.com/free/gdc-17#page-6) | NVIDIA
+
+**Aggregates**
+
+- {知乎专栏 - 黑客与画家} [GDC 2017 slides - NVIDIA](https://zhuanlan.zhihu.com/p/26041340)
+- {知乎专栏 - 黑客与画家} [GDC 2017 slides - AMD](https://zhuanlan.zhihu.com/p/26122855)
+- {知乎专栏 - Thanks for All the Fish} [[笔记] GDC2017](https://zhuanlan.zhihu.com/p/26032846)
+
+- [NVIDIA - GDC17 show guide from NVIDIA](https://developer.nvidia.com/gdc17)
+- [AMD - GDC 2017 Presentations](http://gpuopen.com/gdc-2017-presentations/)
+- [Krzysztof Narkowicz - GDC 2017 Presentations](https://knarkowicz.wordpress.com/2017/03/01/gdc-2017-presentations/)
+
+
+
+
