@@ -18,6 +18,7 @@ awesome things noted and reviewed.
 
 - [intel](https://software.intel.com/)
 - [AMD](http://developer.amd.com/)
+    + [GPUOpen - Games & CGI](http://gpuopen.com/games-cgi/)
 - [nVidia](https://developer.nvidia.com/)
 - [Qualcomm](https://developer.qualcomm.com/)
 - [ARM](https://developer.arm.com/graphics)
