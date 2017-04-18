@@ -62,6 +62,8 @@
 - [AMD - GDC 2017 Presentations](http://gpuopen.com/gdc-2017-presentations/)
 - [Krzysztof Narkowicz - GDC 2017 Presentations](https://knarkowicz.wordpress.com/2017/03/01/gdc-2017-presentations/)
 
+**Appended**
 
+- GDC Vault - [Practical Procedural Generation for Everyone](http://www.gdcvault.com/play/1024213/Practical-Procedural-Generation-for)
 
 
