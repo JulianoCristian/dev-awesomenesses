@@ -39,3 +39,12 @@ awesome things noted and reviewed.
 - [RenderDoc](https://renderdoc.org/)
 - [Adreno GPU Profiler](https://developer.qualcomm.com/software/adreno-gpu-profiler)
 - [Mali Graphics Debugger](https://developer.arm.com/products/software-development-tools/graphics-development-tools/mali-graphics-debugger)
+
+## Engines
+
+- [Unreal Engine](https://www.unrealengine.com)
+- [Unity Engine](https://unity3d.com)
+- [Frostbite](https://www.ea.com/frostbite)
+- [cocos2d-x](http://www.cocos2d-x.org/)
+- [Godot](http://www.godotengine.org/)
+- [KlayGE](http://www.klayge.org/) ([on GitHub](https://github.com/gongminmin/KlayGE))
