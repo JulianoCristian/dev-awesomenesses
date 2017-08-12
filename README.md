@@ -35,7 +35,8 @@ awesome things noted and reviewed.
 - [nVidia - Nsight](http://www.nvidia.com/object/nsight.html)
 - [intel - GPA](https://software.intel.com/en-us/gpa)
 - [Microsoft - PIX](https://blogs.msdn.microsoft.com/pix/)
-- [Windows Performance Toolkit](https://msdn.microsoft.com/en-us/windows/hardware/commercialize/test/wpt/index)
+- [Windows Performance Toolkit](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/)
+
 - [RenderDoc](https://renderdoc.org/)
 - [Adreno GPU Profiler](https://developer.qualcomm.com/software/adreno-gpu-profiler)
 - [Mali Graphics Debugger](https://developer.arm.com/products/software-development-tools/graphics-development-tools/mali-graphics-debugger)
