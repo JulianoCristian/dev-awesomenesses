@@ -36,7 +36,6 @@ awesome things noted and reviewed.
 - [intel - GPA](https://software.intel.com/en-us/gpa)
 - [Microsoft - PIX](https://blogs.msdn.microsoft.com/pix/)
 - [Windows Performance Toolkit](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/)
-
 - [RenderDoc](https://renderdoc.org/)
 - [Adreno GPU Profiler](https://developer.qualcomm.com/software/adreno-gpu-profiler)
 - [Mali Graphics Debugger](https://developer.arm.com/products/software-development-tools/graphics-development-tools/mali-graphics-debugger)
@@ -49,3 +48,11 @@ awesome things noted and reviewed.
 - [cocos2d-x](http://www.cocos2d-x.org/)
 - [Godot](http://www.godotengine.org/)
 - [KlayGE](http://www.klayge.org/) ([on GitHub](https://github.com/gongminmin/KlayGE))
+- [OGRE](http://www.ogre3d.org/)
+
+## Middlewares
+
+- UI
+    - [CEGUI](http://cegui.org.uk/)
+    - [Coherent UI](http://coherent-labs.com/)
+
