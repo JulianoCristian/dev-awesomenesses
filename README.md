@@ -6,6 +6,11 @@ awesome things noted and reviewed.
 - [awesome-cppcon](awesome-cppcon.md) - Picked and starred presentations of CppCon.
 - [awesome-external](awesome-external.md) - Awesome things collected.
 
+## external-awesomenesses
+
+- [(zeef) GameDev david.arcila](https://game-development.zeef.com/david.arcila)
+- [DevStore](http://www.devstore.cn/)
+
 -----------
 
 - [unity-gc-cheatsheet](unity-gc-cheatsheet.md) - Tips and practices of Unity GC.
