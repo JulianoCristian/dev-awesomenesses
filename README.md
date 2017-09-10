@@ -8,12 +8,6 @@ awesome things noted and reviewed.
 
 -----------
 
-- [unity-gc-cheatsheet](unity-gc-cheatsheet.md) - Tips and practices of Unity GC.
-    + [details](unity-gc-cheatsheet-details.md)
-    + [references](unity-gc-cheatsheet-references.md)
-
------------
-
 ## Vendors
 
 - [intel](https://software.intel.com/)
