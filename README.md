@@ -5,6 +5,7 @@ awesome things noted and reviewed.
 - [awesome-gdc17](awesome-gdc17.md) - Participated/recommended/missed presentations of GDC17.
 - [awesome-cppcon](awesome-cppcon.md) - Picked and starred presentations of CppCon.
 - [awesome-external](awesome-external.md) - Awesome things collected.
+- [awesome-dice](awesome-dice.md) - Dice publications.
 
 ## external-awesomenesses
 
@@ -54,4 +55,10 @@ awesome things noted and reviewed.
 - UI
     - [CEGUI](http://cegui.org.uk/)
     - [Coherent UI](http://coherent-labs.com/)
+
+## C/C++
+
+- [single-file C/C++ libraries](https://github.com/nothings/single_file_libs)
+- [Visual Leak Detector for Visual C++ 2008-2015](https://vld.codeplex.com/)
+	+ > The main difference between the CRT Debug Library and VLD, is that Visual Leak Detector shows you the complete callstack used for memory allocation has led to the leak.
 
