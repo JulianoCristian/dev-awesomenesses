@@ -1,9 +1,9 @@
 
-# Awesome-Frostbite
+# Awesome-Frostbite-Engine
 
-- This page contains a comprehensive collection of [DICE publications](http://www.dice.se/) during 2007-2017.
-- Some of them (ones after 2014) are available on [ea.com/frostbite](https://www.ea.com/frostbite) and [slideshare.net](https://www.slideshare.net/).
-- [Frostbite on wikipedia][wikipedia] (Brief history & list of games)
+- This page contains a comprehensive resource collection of Frostbite Engine during 2007-2017.
+- These resources are available on [dice.se](http://www.dice.se/), [ea.com/frostbite](https://www.ea.com/frostbite) and [slideshare.net](https://www.slideshare.net/).
+- For a brief history & list of games, check out [Frostbite on wikipedia][wikipedia].
 
 [wikipedia]: https://en.wikipedia.org/wiki/Frostbite_(game_engine)
 
@@ -11,30 +11,30 @@
 
 EA is moving its games, including Mass Effect and FIFA, [onto a single graphics engine](http://www.techradar.com/news/gaming/from-battlefield-to-fifa-here-s-what-ea-s-frostbite-revolution-means-for-you-1323291). Frostbite has evolved to become the cornerstone of these titles:
 
-- FIFA (FIFA 17/18)
-- Mass Effect (Mass Effect: Andromeda)
-- Battlefield (Battlefield 1 - 2016)  
-- Need for Speed (NEED FOR SPEED 2017: PAYING IT BACK)
-- Mirror's Edge (Mirror's Edge Catalyst - 2016)
-- Star Wars Battlefront 
-- Dragon Age: Origins
+- `FIFA` (FIFA 17/18)
+- `Mass Effect` (Mass Effect: Andromeda)
+- `Battlefield` (Battlefield 1 - 2016)  
+- `Need for Speed` (NEED FOR SPEED 2017: PAYING IT BACK)
+- `Mirror's Edge` (Mirror's Edge Catalyst - 2016)
+- `Star Wars` (Star Wars Battlefront) 
+- `Dragon Age` (Dragon Age: Origins)
 
 ## Resources
 
 ### Engine & Pipeline 
 
-Year | Conf       | Category | Title | Note
----- | ---------- | -------- | ----- | ----
-2007 | gdc07      | Graphics |  [Frostbite Rendering Architecture][render-arc] | 
-2008 | gh2008     | Engine   |  [The Intersection of Game Engines and GPUs – Current & Future][intersection-game-engines-gpus] | 
-2009 | siggraph09 | Graphics |  [Parallel Graphics in Frostbite – Current & Future][parallel-graphics] | 
-2009 |  		  | Engine   |  [Parallel Futures of a Game Engine][parallel-engine-1] | 
-2010 |  		  | Engine   |  [Parallel Futures of a Game Engine v2.0][parallel-engine-2] | 
-2011 |  		  | Graphics |  [Shiny PC Graphics in Battlefield 3][shiny] ([on SlideShare][shiny-2]) | 
-2013 |  		  | Pipeline |  [Scaling the Pipeline][scaling]| `Asset Pipeline`
-2015 | siggraph15 | Pipeline |  [The Rendering Pipeline - Challenges & Next Steps][pipeline]| 
-2016 | gdc2016    | Pipeline |  [Optimize the graphics pipeline with compute][opt-compute]| 
-2017 | gdc2017    | Pipeline |  [FRAMEGRAPH: Extensible Rendering Architecture in Frostbite][framegraph]| 
+Year | Conf       | Title | Note
+---- | ---------- | ----- | ----
+2007 | gdc07      | [Frostbite Rendering Architecture][render-arc] | 
+2008 | gh2008     | [The Intersection of Game Engines and GPUs – Current & Future][intersection-game-engines-gpus] | 
+2009 | siggraph09 | [Parallel Graphics in Frostbite – Current & Future][parallel-graphics] | 
+2009 | intel09    | [Parallel Futures of a Game Engine][parallel-engine-1] | 
+2010 | stockholm  | [Parallel Futures of a Game Engine v2.0][parallel-engine-2] | 
+2011 | nv-lan-6   | [Shiny PC Graphics in Battlefield 3][shiny] ([on SlideShare][shiny-2]) | 
+2013 | stockholm  | [Scaling the Pipeline][scaling]| `Asset Pipeline`
+2015 | siggraph15 | [The Rendering Pipeline - Challenges & Next Steps][pipeline]| 
+2016 | gdc2016    | [Optimize the graphics pipeline with compute][opt-compute]| 
+2017 | gdc2017    | [FRAMEGRAPH: Extensible Rendering Architecture in Frostbite][framegraph]| 
 
 [render-arc]: http://www.dice.se/news/frostbite-rendering-architecture-real-time-procedural-shading-texturing-techniques/
 [intersection-game-engines-gpus]: http://www.dice.se/news/intersection-game-engines-gpus-current-future/
@@ -64,7 +64,7 @@ Year | Conf       | Category | Title | Note
 
 ### Rendering & Visual Effects
 
-- [(2007) #siggraph07 Terrain Rendering in Frostbite using Procedural Shader Splatting][http://www.dice.se/news/terrain-rendering-frostbite-using-procedural-shader-splatting/]
+- [(2007) #siggraph07 Terrain Rendering in Frostbite using Procedural Shader Splatting](http://www.dice.se/news/terrain-rendering-frostbite-using-procedural-shader-splatting/)
 - [(2007) Real-Time Hair Simulation and Visualisation for Games](http://www.dice.se/news/real-time-hair-simulation-visualisation-games/)
 - [(2008) Procedural deformation and destruction in real-time](http://www.dice.se/news/procedural-deformation-destruction-real-time/)
 - [(2009) Interactive Real Time Cloth Simulation with Adaptive Level of Detail](http://www.dice.se/news/interactive-real-time-cloth-simulation-adaptive-level-detail/)
@@ -77,11 +77,11 @@ Year | Conf       | Category | Title | Note
 - [(2010) #siggraph2010 5 Major Challenges in Interactive Rendering](http://www.dice.se/news/5-major-challenges-interactive-rendering/)
 - [(2011) #siggraph2011 More Performance - Five Rendering Ideas from Battlefield 3 and Need For Speed The Run](http://www.dice.se/news/performance-five-rendering-ideas-battlefield-3-need-speed-run/)
 - [(2012) #thesis Real-time Interactive Water Waves](http://www.dice.se/news/realtime-interactive-water-waves/)
-- :star2: [(2012) 5 major challenges in real-time rendering](http://www.dice.se/news/5-major-challenges-real-time-rendering/)
+- [(2012) 5 major challenges in real-time rendering](http://www.dice.se/news/5-major-challenges-real-time-rendering/)
 - [(2012) Data Oriented Interactive Water - An Interactive Water Simulation For PlayStation 3](http://www.dice.se/news/data-oriented-interactive-water/)
 - [(2012) Adaptive Hardware-accelerated Terrain Tessellation](http://www.dice.se/news/adaptive-hardware-accelerated-terrain-tessellation/)
 - [(2014) #siggraph2014 Moving Frostbite to PBR](https://www.ea.com/frostbite/news/moving-frostbite-to-pb)
-- :star2: [(2015) #siggraph2015 Frostbite on mobile](https://www.ea.com/frostbite/news/frostbite-on-mobile)
+- [(2015) #siggraph2015 Frostbite on mobile](https://www.ea.com/frostbite/news/frostbite-on-mobile)
 - [(2015) #siggraph2015 Stochastic Screen-Space Reflections](https://www.ea.com/frostbite/news/stochastic-screen-space-reflections)
 - [(2015) #siggraph2015 Physically Based and Unified Volumetric Rendering in Frostbite](https://www.ea.com/frostbite/news/physically-based-unified-volumetric-rendering-in-frostbite)
 - [(2016) #gdc2016 Lighting the city of glass - Rendering ‘Mirror’s Edge Catalyst’](https://www.ea.com/frostbite/news/lighting-the-city-of-glass)
