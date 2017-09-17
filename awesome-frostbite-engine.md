@@ -1,7 +1,7 @@
 
 # Awesome-Frostbite-Engine
 
-- This page contains a comprehensive resource collection of Frostbite Engine during 2007-2017.
+- This page contains a comprehensive collection of Frostbite Engine during 2007-2017.
 - These resources are available on [dice.se](http://www.dice.se/), [ea.com/frostbite](https://www.ea.com/frostbite) and [slideshare.net](https://www.slideshare.net/).
 - For a brief history & list of games, check out [Frostbite on wikipedia][wikipedia].
 
@@ -25,10 +25,10 @@ EA is moving its games, including Mass Effect and FIFA, [onto a single graphics 
 
 Year | Conf       | Title | Note
 ---- | ---------- | ----- | ----
-2007 | gdc07      | [Frostbite Rendering Architecture][render-arc] | 
+2007 | gdc2007    | [Frostbite Rendering Architecture][render-arc] | 
 2008 | gh2008     | [The Intersection of Game Engines and GPUs – Current & Future][intersection-game-engines-gpus] | 
 2009 | siggraph09 | [Parallel Graphics in Frostbite – Current & Future][parallel-graphics] | 
-2009 | intel09    | [Parallel Futures of a Game Engine][parallel-engine-1] | 
+2009 | intel2009  | [Parallel Futures of a Game Engine][parallel-engine-1] | 
 2010 | stockholm  | [Parallel Futures of a Game Engine v2.0][parallel-engine-2] | 
 2011 | nv-lan-6   | [Shiny PC Graphics in Battlefield 3][shiny] ([on SlideShare][shiny-2]) | 
 2013 | stockholm  | [Scaling the Pipeline][scaling]| `Asset Pipeline`
@@ -53,7 +53,7 @@ Year | Conf       | Title | Note
 - GDC11 - `DX11` [DirectX 11 Rendering in Battlefield 3](http://www.dice.se/news/directx-11-rendering-battlefield-3/)
 - GDC11 - `Lighting` [Lighting you up in Battlefield 3](http://www.dice.se/news/lighting-battlefield-3/)
 - GDC11 - `Culling` [Culling the Battlefield Data Oriented Design in Practice](http://www.dice.se/news/culling-battlefield-data-oriented-design-practice/)
-- GDC11 - `Deferred Shading` [SPU-based Deferred Shading in Battlefield 3](http://www.dice.se/news/spu-based-deferred-shading-battlefield-3-playstation-3/)
+- GDC11 - `Deferred-Shading` [SPU-based Deferred Shading in Battlefield 3](http://www.dice.se/news/spu-based-deferred-shading-battlefield-3-playstation-3/)
 - GDC11 - `SSS` [Approximating Translucency for a Fast, Cheap and Convincing Subsurface Scattering Look](http://www.dice.se/news/approximating-translucency-fast-cheap-convincing-subsurface-scattering-look/)
 - GDC12 - `Animation` [Modular Rigging in Battlefield 3](http://www.dice.se/news/modular-rigging-battlefield-3/)
 - GDC12 - `Terrain` [Terrain in Battlefield 3: A Modern, Complete and Scalable System](http://www.dice.se/news/terrain-battlefield-3-modern-complete-scalable-system/)
