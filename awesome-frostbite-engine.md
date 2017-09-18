@@ -1,7 +1,7 @@
 
 # Awesome-Frostbite-Engine
 
-- This page contains a comprehensive collection of Frostbite Engine during 2007-2017.
+- This page contains a comprehensive collection of Frostbite Engine Resources during 2007-2017.
 - These resources are available on [dice.se](http://www.dice.se/), [ea.com/frostbite](https://www.ea.com/frostbite) and [slideshare.net](https://www.slideshare.net/).
 - For a brief history & list of games, check out [Frostbite on wikipedia][wikipedia].
 
