@@ -14,7 +14,7 @@
     + [(zeef) GameDev david.arcila](https://game-development.zeef.com/david.arcila)
     + [DevStore](http://www.devstore.cn/)
     + [A study path for game programmer](https://github.com/miloyip/game-programmer/)
-    + [AltDevBlogADay 2.0](http://altdevblog.com/)
+    + ~~[AltDevBlogADay (original content not available anymore)](http://altdevblog.com/)~~
 - awesomenesses of specific technologies
     + [awesome-opengl](https://github.com/eug/awesome-opengl)
     + [awesome-vulkan](https://github.com/vinjn/awesome-vulkan)
