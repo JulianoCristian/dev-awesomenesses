@@ -2,8 +2,9 @@
 
 > awesome things noted and reviewed.
 
-- [awesome-gdc17](awesome-gdc17.md) - Participated/recommended/missed presentations of GDC17.
+- [awesome-bsv](awesome-bsv.md)
 - [awesome-cppcon](awesome-cppcon.md) - Picked and starred presentations of CppCon.
+- [awesome-gdc17](awesome-gdc17.md) - Participated/recommended/missed presentations of GDC17.
 - [awesome-frostbite-engine](awesome-frostbite-engine.md) - a comprehensive collection of Frostbite Engine during 2007-2017.
 
 > external awesomenesses
