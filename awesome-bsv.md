@@ -18,8 +18,13 @@
     - [Fee Specification](https://github.com/bitcoin-sv-specs/brfc-misc/tree/master/feespec)
     - [Tokenized](https://tokenized.com/)
 
-### Specs & Services
+## Videos
 
+- [(Youtube) Theory of Bitcoin](https://www.youtube.com/watch?v=zmLfZ599oAY&list=PLOqZWfHm-gzALWIEoMxLpBkQvLH2HdLbh) - Dr. Craig S. Wright & Ryan X. Charles
+
+## Services
+
+- [PowPing!](https://powping.com/) - a bitcoin social network created by unwriter
 - [bit.sv](https://bit.sv/) - a new content network that pays creators directly
 
 ## Entries
