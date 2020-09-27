@@ -3,31 +3,21 @@
 
 ## Development
 
-- dev-libraries
-    - [bitsv](https://github.com/AustEcon/bitsv) ([documentation](https://austecon.github.io/bitsv/), [bsvbip32](https://github.com/AustEcon/bsvbip32))
-    - [operate](https://www.operatebsv.org/) ([Introducing Operate](https://www.operatebsv.org/blog/introducing-operate/))
-    - [Nakasendo](https://nakasendoproject.org/) 
-- dev-services
-    - [MetaSV](https://metasv.com/)
-    - [All Aboard](https://allaboardbitcoin.com/) 
-    - [Xoken - 辅助节点](https://www.xoken.org/)
-- dev-toos
-    - sCrypt ([IDE](http://scrypt.studio/), [Documentation](https://scryptdoc.readthedocs.io/en/latest/))
-- specs-and-protocols
-    - [Merchant API Reference](https://bitcoin-sv.github.io/merchantapi-reference/)
-    - [Fee Specification](https://github.com/bitcoin-sv-specs/brfc-misc/tree/master/feespec)
-    - [Tokenized](https://tokenized.com/)
+### Dev Libraries
 
-## Videos
+- [bitsv](https://github.com/AustEcon/bitsv) ([documentation](https://austecon.github.io/bitsv/), [bsvbip32](https://github.com/AustEcon/bsvbip32))
+- [operate](https://www.operatebsv.org/) ([Introducing Operate](https://www.operatebsv.org/blog/introducing-operate/))
+- [Nakasendo](https://nakasendoproject.org/) 
 
-- [(Youtube) Theory of Bitcoin](https://www.youtube.com/watch?v=zmLfZ599oAY&list=PLOqZWfHm-gzALWIEoMxLpBkQvLH2HdLbh) - Dr. Craig S. Wright & Ryan X. Charles
+### Dev Services & Tools
 
-## Services
+- [MetaSV](https://metasv.com/)
+- [All Aboard](https://allaboardbitcoin.com/) 
+- [Xoken - 辅助节点](https://www.xoken.org/)
+- [Tokenized](https://tokenized.com/)
+- sCrypt ([IDE](http://scrypt.studio/), [Documentation](https://scryptdoc.readthedocs.io/en/latest/))
 
-- [PowPing!](https://powping.com/) - a bitcoin social network created by unwriter
-- [bit.sv](https://bit.sv/) - a new content network that pays creators directly
-
-## Entries
+### Dev Lists
 
 - [Wiki - Official](https://wiki.bitcoinsv.io/index.php/Main_Page)
 - [Wiki - Edward Liu](https://wiki.bsv.info/)
@@ -38,8 +28,18 @@
 - [reddit - **/r/bitcoincashSV/**](https://www.reddit.com/r/bitcoincashSV/)
 - [bitcoinsv.io services](https://bitcoinsv.io/services/)
 - [BSV Devs](https://www.bsvdevs.com/) ([twitter](https://twitter.com/BsvDevs))
-- [MetaStore](https://metastore.app/apps?sort=hot) - created by [u/zhell_](https://www.reddit.com/user/zhell_/)
+
+### Specs & Protocols
+
+- [Merchant API Reference](https://bitcoin-sv.github.io/merchantapi-reference/)
+- [Fee Specification](https://github.com/bitcoin-sv-specs/brfc-misc/tree/master/feespec)
+
+
+## Learning Materials
+
+- [(Youtube) Theory of Bitcoin](https://www.youtube.com/watch?v=zmLfZ599oAY&list=PLOqZWfHm-gzALWIEoMxLpBkQvLH2HdLbh) - Dr. Craig S. Wright & Ryan X. Charles
 - [recreating.org](http://recreating.org/) - Recreating Bitcoin - (何岩) 重新创造比特币.pdf
+
 
 ## People & Organizations
 
@@ -52,14 +52,22 @@
 - 邱少 [metanet.press](https://metanet.press/)
 
 
+## Consumer Services
+
+- [PowPing!](https://powping.com/) - a bitcoin social network created by unwriter
+- [bit.sv](https://bit.sv/) - a new content network that pays creators directly
+- [MetaStore](https://metastore.app/apps?sort=hot) - created by [u/zhell_](https://www.reddit.com/user/zhell_/)
+
+
 ## Archives
 
 ### Articles
 
 - [The resolution of the Bitcoin Cash experiment](https://medium.com/@_unwriter/the-resolution-of-the-bitcoin-cash-experiment-52b86d8cd187)
 - [Bitcoin Battle - War-gaming BTC v. BCH v. BSV strategies.](https://medium.com/cryptolawreview/bitcoin-battle-668349176b38)
-- [**Why We Think Craig Wright is Satoshi and Why That Matters**](https://unboundedcapital.com/blog/why-we-think-craig-wright-is-satoshi-and-why-that-matters) (July 2020 Update) (Unbounded Capital)
-- [**The Parallel History Of Bitcoin.**](https://medium.com/the-capital/the-parallel-history-of-bitcoin-bc4c1d348939) (Donald Mulders)
+- [Why We Think Craig Wright is Satoshi and Why That Matters](https://unboundedcapital.com/blog/why-we-think-craig-wright-is-satoshi-and-why-that-matters) (July 2020 Update) (Unbounded Capital)
+- [The Parallel History Of Bitcoin.](https://medium.com/the-capital/the-parallel-history-of-bitcoin-bc4c1d348939) (Donald Mulders)
+- [What comes next](https://bit.sv/post/499dec5108b14e99d28b48b0c0dfcd5fe06edef43ad738d41f18264151aaf30d) ([中译](https://gulu-dev.com/post/2020/2020-09-24-what-comes-next))
 - [正本清源解析比特币——价值被远远低估的BSV](https://zhuanlan.zhihu.com/p/61912118)
 
 ### Satoshi-related 
