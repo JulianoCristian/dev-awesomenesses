@@ -2,7 +2,7 @@
 
 > awesome things noted and reviewed.
 
-- [awesome-bsv](awesome-bsv.md) - Bitcoin SV
+- [awesome-bsv](https://github.com/gl-notes/awsome-bitcoin-sv) - Bitcoin SV
 - [awesome-cppcon](awesome-cppcon.md) - Picked and starred presentations of CppCon.
 - [awesome-gamedev](awesome-gamedev.md) - Game Development.
 
